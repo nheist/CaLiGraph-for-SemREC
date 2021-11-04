@@ -4,7 +4,7 @@ a benchmark dataset in the [Semantic Reasoning Evaluation Challange](https://sem
 at the [International Semantic Web Conference 2021 (ISWC'21)](https://iswc2021.semanticweb.org).
 
 The paper describing the dataset characteristics and results for well-known
-reasoners will be linked here as soon as a preprint is available.
+reasoners can be found [here](https://arxiv.org/pdf/2110.05028.pdf).
 
 ## Datasets
 We use [CaLiGraph version 2.1.0](https://zenodo.org/record/5509912) as foundation for the challenge dataset.
