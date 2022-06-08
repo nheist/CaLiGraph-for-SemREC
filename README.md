@@ -111,4 +111,4 @@ Below you find the statistics of the training, validation, and test splits of th
   </tbody>
 </table>
 
-The code that is used to create the splits and the statistics is located in [this notebook](CaLiGraph-for-SEMREC-2022-train-val-test-split.ipynb).
+The code that is used to create the splits and the statistics is located in [this notebook](CaLiGraph-for-SemREC-2022-train-val-test-split.ipynb).
